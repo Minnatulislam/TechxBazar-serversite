@@ -1,0 +1,5 @@
+node_modules
+.env
+Categories.json
+products.json
+.vercel
